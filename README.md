@@ -5,6 +5,6 @@
 
 [softs.wrf/科学上网/PC/Brook/Mac/Backup/softBrook-v2018080707.dmg](http://xiaowei.ml/wp-content/uploads/2020/08/Brook-v20180707.zip)
 
-**如果下载失败，请参考[Wiki](github.com/handsomego/DoubiBlueYun)**
+**如果下载失败，请参考[Wiki](https://github.com/handsomego/DoubiBlueYun/wiki)**
 
 
